@@ -27,7 +27,7 @@ var movieData = [
   {
     title: 'Bill and Ted\'s Excellent Adventure',
     year: 1989,
-    rating: 5
+    rating: 42
   },
   {
     title: 'Edge of Tomorrow',

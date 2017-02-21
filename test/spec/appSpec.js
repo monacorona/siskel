@@ -1,6 +1,6 @@
+var model, collection;
 describe('Siskel', function() {
 
-  var model, collection;
   var datum = [
     {
       title: 'Primer',
